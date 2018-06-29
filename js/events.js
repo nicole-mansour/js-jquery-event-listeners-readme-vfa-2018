@@ -28,5 +28,8 @@ function submitIt() {
 $(document).ready(function(){
 
 // call functions here
-
++console.log(getIt)
++console.log(frameIt)
++console.log(pressIt)
++console.log(submitIt)
 });
